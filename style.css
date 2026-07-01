@@ -1,0 +1,119 @@
+/* Página */
+
+body{
+
+    margin:0;
+    padding:0;
+    background:#eef7f1;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+/* Área principal */
+
+.pagina{
+
+    width:80%;
+    max-width:900px;
+
+    margin:40px auto;
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:15px;
+
+    box-shadow:0px 5px 15px rgba(0,0,0,0.2);
+
+}
+
+/* Título */
+
+.titulo{
+
+    text-align:center;
+
+}
+
+.titulo h1{
+
+    color:#2E7D32;
+
+    font-size:42px;
+
+}
+
+/* Texto */
+
+.texto{
+
+    margin-top:25px;
+
+}
+
+.texto p{
+
+    font-size:20px;
+
+    line-height:1.8;
+
+    text-align:justify;
+
+}
+
+/* Imagem */
+
+.imagem{
+
+    text-align:center;
+
+    margin-top:35px;
+
+}
+
+.imagem img{
+
+    width:100%;
+
+    max-width:700px;
+
+    border-radius:15px;
+
+    box-shadow:0 5px 12px rgba(0,0,0,0.25);
+
+}
+
+/* Mensagem */
+
+.mensagem{
+
+    margin-top:40px;
+
+    background:#E8F5E9;
+
+    padding:25px;
+
+    border-left:8px solid #43A047;
+
+    border-radius:10px;
+
+}
+
+.mensagem h2{
+
+    color:#2E7D32;
+
+    text-align:center;
+
+}
+
+.mensagem p{
+
+    font-size:19px;
+
+    line-height:1.7;
+
+    text-align:center;
+
+}
