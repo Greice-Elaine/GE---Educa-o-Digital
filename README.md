@@ -1,1 +1,1 @@
-# GE---Educa-o-Digital
+# GE-Educacao-Digital
